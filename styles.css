@@ -1,0 +1,16 @@
+*{
+    font-family: Verdana, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 70px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    background-color: rgba(150, 102, 102, 0.644);
+}
+
+
