@@ -1,0 +1,18 @@
+*{
+    font-family: Verdana, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: black;
+    text-align: center;
+}
+
+h2 {
+    background-color: black;
+}
+
+body {
+    background-color: grey;
+    color: white;
+
+}
