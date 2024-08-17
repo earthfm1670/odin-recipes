@@ -3,18 +3,24 @@
 }
 
 body {
-    background-color: grey;
+    background-color: #dca47c;
 }
 
 h1 {
     font-size: 70px;
-    background-color: black;
+    background-color: #847469;
     color: white;
     text-align: center;
+    padding: 15px;
+    border: 5px solid brown;
+    margin: 40px 20px 40px 20px;
 }
 
 .container {
-    background-color: rgba(255, 255, 255, 0.572);
+    background-color: #fcf8f3;
+    border: 5px solid brown;
+    padding: 10px 0px;
+    margin: 40px 20px 40px 20px;
 }
 
 
